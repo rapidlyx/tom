@@ -1,0 +1,98 @@
+export const stack = [
+  {
+    image: "icon-javscript.svg",
+    title: "Javascript",
+    width: "64px",
+    widthImg: "64px",
+  },
+  {
+    image: "icon-typescript.svg",
+    title: "Typescript",
+    width: "64px",
+    widthImg: "64px",
+  },
+  {
+    image: "icon-react.svg",
+    title: "React",
+    width: "69.82px",
+    widthImg: "69.82px",
+  },
+  {
+    image: "icon-nextjs.svg",
+    title: "NextJS",
+    width: "64px",
+    widthImg: "64px",
+  },
+  {
+    image: "icon-nodejs.svg",
+    title: "NodeJS",
+    width: "65px",
+    widthImg: "56.32px",
+  },
+  {
+    image: "icon-express.svg",
+    title: "Express",
+    width: "64px",
+    widthImg: "64px",
+  },
+  {
+    image: "icon-nest.svg",
+    title: "Nest",
+    width: "66.06px",
+    widthImg: "66.06px",
+  },
+  {
+    image: "icon-socket.svg",
+    title: "Socket",
+    width: "64px",
+    widthImg: "64px",
+  },
+  {
+    image: "icon-postgresql.svg",
+    title: "Postgresql",
+    width: "63px",
+    widthImg: "62.05px",
+  },
+  {
+    image: "icon-mongodb.svg",
+    title: "MongoDB",
+    width: "30px",
+    widthImg: "29.77pxpx",
+  },
+  {
+    image: "icon-sass.svg",
+    title: "Sass",
+    width: "64px",
+    widthImg: "64px",
+  },
+  {
+    image: "icon-tailwindcss.svg",
+    title: "TailwindCSS",
+    width: "104.73px",
+    widthImg: "104.73px",
+  },
+  {
+    image: "icon-figma.svg",
+    title: "Figma",
+    width: "52px",
+    widthImg: "42.67px",
+  },
+  {
+    image: "icon-cypress.svg",
+    title: "Cypress",
+    width: "64px",
+    widthImg: "64px",
+  },
+  {
+    image: "icon-storybook.svg",
+    title: "StoryBook",
+    width: "64px",
+    widthImg: "64px",
+  },
+  {
+    image: "icon-git.svg",
+    title: "GIT",
+    width: "64px",
+    widthImg: "64px",
+  },
+];
