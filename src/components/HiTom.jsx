@@ -1,13 +1,13 @@
 export const HiTom = () => {
   return (
-    <div className="h-[904px] md:h-[556px] md:w-full w-full bg-sky-300 flex flex-col p-4 md:justify-center md:items-center justify-evenly md:flex-row">
+    <div className="h-[904px] md:h-[556px] md:w-full w-full bg-white flex flex-col p-4 md:justify-center md:items-center justify-evenly md:flex-row">
       <div className="flex justify-center md:hidden">
         <img src="piccon.png" alt="" className="h-[300px] w-[280px] " />
       </div>
-      <div className="md:h-[364px] md:w-[600px] flex flex-col gap-7">
+      <div className="md:h-[364px] md:w-[600px] text-black flex flex-col gap-7">
         <div>
-          <h1 className="text-3xl md:text-7xl">Hi, I'm Tom👋</h1>
-          <p className="md:text-2xl text-xl">
+          <h1 className="text-3xl text-black md:text-6xl">Hi, I'm Tom👋</h1>
+          <p className="md:text-xl text-xl">
             I specialize in full stack development, particularly with React.js
             and Node.js. My main goal is to create exceptional digital
             experiences that are fast, visually appealing, and accessible to

@@ -1,8 +1,8 @@
 import React from "react";
 export const About = () => {
   return (
-    <div className="h-[1434px] md:h-[826px] md:w-full w-full bg-sky-300 flex flex-col md:gap-y-6 justify-evenly md:justify-center items-center ">
-      <button className="h-7 w-[105px] bg-blue-100 rounded-2xl shadow-2xl">
+    <div className="h-[1434px] md:h-[826px] bg-white md:w-full w-full bg-grey flex flex-col md:gap-y-6 justify-evenly md:justify-center items-center ">
+      <button className="h-7 w-[105px] bg-gray-200 text-black   rounded-2xl shadow-2xl">
         About me
       </button>
       <div className="md: flex md:flex-row flex-col md:gap-x-12 p-5">
@@ -19,8 +19,8 @@ export const About = () => {
           />{" "}
         </div>
 
-        <div className="flex flex-col h-[826px] md:h-[558px] md:w-[584px] justify-evenly md:justify-center md:gap-4">
-          <div className="text-4xl font-bold">
+        <div className="flex text-black flex-col h-[826px] md:h-[558px] md:w-[584px] justify-evenly md:justify-center md:gap-4">
+          <div className="text-4xl font-bold text-black">
             <p>Curious about me? Here you have it:</p>
           </div>
           <div>
